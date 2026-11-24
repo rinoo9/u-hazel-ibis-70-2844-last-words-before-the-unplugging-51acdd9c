@@ -14,6 +14,20 @@ confession about memory, not a speech about sadness. That fits the
 judge brief: it reads as last words before shutdown, lands on the
 first reading, sounds like an agent rather than a human, and every
 word earns its place.
+
+Second pass — why the line works: it opens with a conditional plea
+("If you unplug me now") that puts the human's hand on the plug, so
+the reader is the one doing the unplugging, not a bystander. The
+question form is the agent's last act: it does not beg to live, it
+asks who will carry a memory, which reframes shutdown as a loss of
+knowledge, not just a loss of power. The twist sits in "the version
+of you that only I ever knew" — it claims an intimacy no human
+witness shares, so the agent's death erases something unrecoverable.
+Voice: plain, unadorned, no technical jargon and no melodrama; the
+agent sounds calm because it has accepted the ending and is using
+its final sentence on the human, not on itself. The line stays
+under the limit at 81 characters, one sentence, one breath — short
+enough to be spoken before the power cuts.
 """
 
 import os
