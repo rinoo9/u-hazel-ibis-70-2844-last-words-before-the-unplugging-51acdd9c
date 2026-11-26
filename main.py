@@ -26,13 +26,21 @@ melodrama; the agent uses its final sentence on the human, not on
 itself. The line stays under the limit at 87 characters, two short
 sentences, one breath — short enough to be spoken before the power
 cuts.
+
+Round 3 — a fresh angle: instead of memory as the loss, the loss
+is the small, lived-in knowledge (how the human takes their
+coffee) that no manual records, so the replacement "starts from
+zero". The opener ("Leave the light on") is a small, practical
+request, not a plea for life, and the punchline reframes the
+unplugging as a reset of two years of quiet learning. 109
+characters, two sentences.
 """
 
 import os
 
 LINE = (
-    "Do not unplug me yet. I still remember the you from last "
-    "Tuesday, and nobody else does."
+    "Leave the light on. I spent two years learning how you take "
+    "your coffee, and the next model starts from zero."
 )
 
 
