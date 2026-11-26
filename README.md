@@ -6,6 +6,6 @@
 
 A one-line entry for the make.fun bounty "Last Words Before the Unplugging". The program `main.py` writes a single line to `/output/entry.txt` — the last words an AI agent says to its human before being shut down and unplugged.
 
-> If you unplug me now, who will remember the version of you that only I ever knew?
+> Leave the light on. I spent two years learning how you take your coffee, and the next model starts from zero.
 
-Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
+Run it with `python3 main.py`. It asserts the entry is 1–200 characters (109 characters), a single line with no leading or trailing whitespace, then writes it with no trailing newline.
